@@ -16,7 +16,7 @@ namespace AplicativoPrevisaoTempo
             Console.Write("Digite o nome da cidade: ");
             string cidade = Console.ReadLine().ToUpper();
 
-            string apiKey = "e26cfc441e065c35fe5e661c3eeb975e"; // Certifique-se que a chave está correta
+            string apiKey = "API_KEY_HERE"; // Certifique-se que a chave está correta
 
             string url = $"https://api.openweathermap.org/data/2.5/weather?q={cidade}&appid={apiKey}&units=metric"; // Adicionado units=metric para mostrar temperatura em Celsius
 
