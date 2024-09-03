@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED88BD-970C-4AE1-A34C-A9472FD0BEFD}|Aplicativo_Previs\u00E3o_do_Tempo.csproj|c:\\users\\zellus\\documents\\documentos\\gabriel\\visual_studio\\aplicativo\\aplicativo_previs\u00E3o_do_tempo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED88BD-970C-4AE1-A34C-A9472FD0BEFD}|Aplicativo_Previs\u00E3o_do_Tempo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED88BD-970C-4AE1-A34C-A9472FD0BEFD}|Aplicativo_Previs\u00E3o_do_Tempo.csproj|c:\\users\\zellus\\documents\\documentos\\gabriel\\visual_studio\\aplicativo\\aplicativo_previs\u00E3o_do_tempo\\entities\\previsaotempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED88BD-970C-4AE1-A34C-A9472FD0BEFD}|Aplicativo_Previs\u00E3o_do_Tempo.csproj|solutionrelative:entities\\previsaotempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED88BD-970C-4AE1-A34C-A9472FD0BEFD}|Aplicativo_Previs\u00E3o_do_Tempo.csproj|c:\\users\\zellus\\documents\\documentos\\gabriel\\visual_studio\\aplicativo\\aplicativo_previs\u00E3o_do_tempo\\entities\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED88BD-970C-4AE1-A34C-A9472FD0BEFD}|Aplicativo_Previs\u00E3o_do_Tempo.csproj|solutionrelative:entities\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07ED88BD-970C-4AE1-A34C-A9472FD0BEFD}|Aplicativo_Previs\u00E3o_do_Tempo.csproj|c:\\users\\zellus\\documents\\documentos\\gabriel\\visual_studio\\aplicativo\\aplicativo_previs\u00E3o_do_tempo\\entities\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07ED88BD-970C-4AE1-A34C-A9472FD0BEFD}|Aplicativo_Previs\u00E3o_do_Tempo.csproj|solutionrelative:entities\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\Entities\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Entities\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\Entities\\WeatherData.cs",
+              "RelativeToolTip": "Entities\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:00:44.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainData.cs",
+              "DocumentMoniker": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\Entities\\MainData.cs",
+              "RelativeDocumentMoniker": "Entities\\MainData.cs",
+              "ToolTip": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\Entities\\MainData.cs",
+              "RelativeToolTip": "Entities\\MainData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:59:48.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrevisaoTempo.cs",
+              "DocumentMoniker": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\Entities\\PrevisaoTempo.cs",
+              "RelativeDocumentMoniker": "Entities\\PrevisaoTempo.cs",
+              "ToolTip": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\Entities\\PrevisaoTempo.cs",
+              "RelativeToolTip": "Entities\\PrevisaoTempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:59:21.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Zellus\\Documents\\Documentos\\Gabriel\\Visual_Studio\\Aplicativo\\Aplicativo_Previs\u00E3o_do_Tempo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:57:10.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
