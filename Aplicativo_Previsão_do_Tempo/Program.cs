@@ -1,5 +1,6 @@
 ﻿using Aplicativo_Previsão_do_Tempo.Entities;
 using System;
+using System.Globalization;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json; // Importação do Newtonsoft.Json
@@ -33,7 +34,7 @@ namespace AplicativoPrevisaoTempo
                     if(previsao != null && previsao.Main != null && previsao.Weather != null)
                     {
                         Console.WriteLine("Cidade: " + previsao.Name);
-                        Console.WriteLine("Temperatura: " + previsao.Main.Temp + "°C");
+                        Console.WriteLine("Temperatura: " + previsao.Main.Temp.ToString("f1",CultureInfo.InvariantCulture) + "°C");
                         Console.WriteLine("Condição: " + previsao.Weather[0].Description);
                     }
                     else

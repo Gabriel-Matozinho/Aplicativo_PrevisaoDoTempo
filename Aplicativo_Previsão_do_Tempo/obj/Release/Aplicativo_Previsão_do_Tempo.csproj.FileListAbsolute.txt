@@ -1,0 +1,10 @@
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\bin\Release\Aplicativo_Previsão_do_Tempo.exe.config
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\bin\Release\Aplicativo_Previsão_do_Tempo.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\bin\Release\Aplicativo_Previsão_do_Tempo.pdb
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\bin\Release\Newtonsoft.Json.dll
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\bin\Release\Newtonsoft.Json.xml
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\obj\Release\Aplicativo_Previsão_do_Tempo.csproj.AssemblyReference.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\obj\Release\Aplicativo_Previsão_do_Tempo.csproj.CoreCompileInputs.cache
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\obj\Release\Aplicati.9C30C357.Up2Date
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\obj\Release\Aplicativo_Previsão_do_Tempo.exe
+C:\Users\Zellus\Documents\Documentos\Gabriel\Visual_Studio\Aplicativo\Aplicativo_Previsão_do_Tempo\obj\Release\Aplicativo_Previsão_do_Tempo.pdb
