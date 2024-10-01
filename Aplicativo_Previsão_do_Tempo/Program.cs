@@ -34,7 +34,7 @@ namespace AplicativoPrevisaoTempo
                     if(previsao != null && previsao.Main != null && previsao.Weather != null)
                     {
                         Console.WriteLine("Cidade: " + previsao.Name);
-                        Console.WriteLine("Temperatura: " + previsao.Main.Temp.ToString("f1",CultureInfo.InvariantCulture) + "°C");
+                        Console.WriteLine("Temperatura: " + previsao.Main.Temp.ToString("F1",CultureInfo.InvariantCulture) + "°C");
                         Console.WriteLine("Condição: " + previsao.Weather[0].Description);
                     }
                     else
